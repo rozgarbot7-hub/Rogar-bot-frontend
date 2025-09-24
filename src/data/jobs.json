@@ -1,0 +1,93 @@
+[
+  {
+    "id": "jb-001",
+    "title": "Frontend Developer (Next.js)",
+    "company": "Techverse",
+    "location": "Karachi",
+    "type": "Full-time",
+    "postedAt": "2025-08-24",
+    "applyUrl": "https://example.com/jobs/1",
+    "source": "Company Site",
+    "salaryMin": 120000,
+    "salaryMax": 180000,
+    "currency": "PKR",
+    "tags": ["Next.js", "Tailwind", "TypeScript"]
+  },
+  {
+    "id": "jb-002",
+    "title": "Python Developer",
+    "company": "DataCraft",
+    "location": "Remote",
+    "type": "Remote",
+    "postedAt": "2025-08-22",
+    "applyUrl": "https://example.com/jobs/2",
+    "source": "Rozee.pk",
+    "tags": ["Python", "APIs"]
+  },
+  {
+    "id": "jb-003",
+    "title": "UI/UX Designer",
+    "company": "PixelSmith",
+    "location": "Lahore",
+    "type": "Contract",
+    "postedAt": "2025-08-25",
+    "applyUrl": "https://example.com/jobs/3",
+    "source": "LinkedIn",
+    "tags": ["Figma", "UX", "Prototyping"]
+  },
+  {
+    "id": "jb-004",
+    "title": "Backend Engineer (Node.js)",
+    "company": "CloudLoop",
+    "location": "Islamabad",
+    "type": "Full-time",
+    "postedAt": "2025-08-20",
+    "applyUrl": "https://example.com/jobs/4",
+    "source": "Company Site",
+    "tags": ["Node.js", "PostgreSQL", "Docker"]
+  },
+  {
+    "id": "jb-005",
+    "title": "Data Analyst",
+    "company": "Insight Labs",
+    "location": "Karachi",
+    "type": "Internship",
+    "postedAt": "2025-08-23",
+    "applyUrl": "https://example.com/jobs/5",
+    "source": "Indeed",
+    "tags": ["Excel", "SQL", "Power BI"]
+  },
+  {
+    "id": "jb-006",
+    "title": "Mobile App Developer (Flutter)",
+    "company": "Appify",
+    "location": "Remote",
+    "type": "Part-time",
+    "postedAt": "2025-08-19",
+    "applyUrl": "https://example.com/jobs/6",
+    "source": "Company Site",
+    "tags": ["Flutter", "Dart"]
+  },
+  {
+    "id": "jb-007",
+    "title": "DevOps Engineer",
+    "company": "Pioneer Tech",
+    "location": "Lahore",
+    "type": "Full-time",
+    "postedAt": "2025-08-26",
+    "applyUrl": "https://example.com/jobs/7",
+    "source": "Rozee.pk",
+    "tags": ["AWS", "Kubernetes", "CI/CD"]
+  },
+  {
+    "id": "jb-008",
+    "title": "Content Writer (Tech)",
+    "company": "WordCrafters",
+    "location": "Karachi",
+    "type": "Contract",
+    "postedAt": "2025-08-18",
+    "applyUrl": "https://example.com/jobs/8",
+    "source": "LinkedIn",
+    "tags": ["Writing", "SEO", "Research"]
+  }
+]
